@@ -1,0 +1,188 @@
+.App{
+        background-color: #ffffff;
+        min-height: 100vh;
+}
+.Blender-details{
+        font-size: 25px;
+        font-weight: 30px;
+        text-align: center;
+        font-weight: 500;
+}
+.view-larger{
+        text-align: center;
+        font-size: 18px;
+        color: grey;
+}
+.view-larger .glyphicon{
+        font-size: 35px;
+}
+.return-section .row{
+        padding-top: 20px;
+        padding-bottom: 20px;
+}
+.landing{
+        padding-top: 20vh;
+}
+.price{
+        font-size: 30px;
+        font-weight: 700;
+}
+.benefits{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-top: 40px;
+        font-size: 17px;
+        font-weight: 600;
+        color: #e60000;
+        border-bottom: 1px solid #C8C8C8;
+        border-top: 1px solid #C8C8C8;
+}
+.w3-button.w3-circle{
+        color: white;
+        background-color: #D0D0D0;
+}
+.quantity{
+        font-size: 13px;
+        border: 1.3px solid #C0C0C0;
+        width: 50%;
+        margin-top: 20px;
+        padding: 10px;
+        color: black;
+        font-weight: 500;
+
+}
+.round-buttons{
+       letter-spacing: 10px;
+       margin-top: -5px
+}
+.fa.fa-plus-circle, .fa.fa-minus-circle{
+        font-size: 30px;
+        color: #B0B0B0	
+}
+.increament{
+        font-weight: 800;
+}
+.shop-section {
+        margin-top: 20px;
+        padding: 0px;
+}
+.shop-section button{
+        min-height: 40px;
+        font-size: 20px;
+        color: white;
+        max-width: 100%
+}
+#cart-btn{
+        background-color: #e60000;
+        border: none;
+}
+#pickup-btn{
+        background-color: black;
+        border: none;
+}
+.find-coach{
+        text-align: center;
+        font-size: 14px;
+}
+.return-title{
+         font-size: 25px;
+         border-right: 1px solid black;
+}
+.return-details{
+        /* padding-left: 5px;
+        margin-left: 5px; */
+        font-size: 11px;
+        font-weight: 600;
+}
+#get-registry{
+        height: 30px;
+        margin-top: 5px;
+}
+.policy-details button{
+        border: none;
+        font-size: 13px;
+        color: black;
+        background-color: #F0F0F0;
+        flex-wrap: none
+}
+.return-policy{
+        margin-top: 10px;
+}
+.policy-details .col-4{
+        padding: 1px;
+}
+.Add-to-registry, .add-to-list, .share{
+        border: none;
+        font-size: 13px;
+        background-color: #F0F0F0;
+}
+
+.add-to-list, .share{
+
+}
+.return-policy-options, .product-highlights{
+        margin-top: 20px;
+}
+.highlights-heading{
+        font-size: 35px;
+        font-weight: 800;
+}
+.product-list{
+        font-size: 15px;
+        color : #808080;
+        font-weight: 500;
+        padding: 18px;
+}
+.ratings{
+        font-size: 25px;
+        color: red;
+}
+.reviews{
+        font-size: 15px;
+        font-weight: 700;
+
+}
+.overall{
+        color: black;
+        font-size: 15px;
+}
+.view-reviews{
+        padding-top: 10px;
+}
+.pro-con{
+        background-color: #F5F5F5;
+        min-height: 300px;
+}
+.carousel-control-prev, .carousel-control-next, .sr-only{
+        color: grey;
+}
+.carousel-item{
+
+}
+.carousel-item img{
+        height: 80px;
+}
+.posted-name{
+        color: blue
+}
+.pro-con{
+        font-size: 13px;
+        font-weight: 700;
+        padding-top: 20px;
+}
+.pro-con h2{
+        font-weight: 700;
+}
+.review-details h2{
+        font-weight: 1200;
+}
+.row.pro-con-row{
+        margin-top: 60px;
+}
+/* media query */
+/* @media only screen and (max-width: 600px) {
+        .return-policy-options button{
+                min-width: 104px;
+                margin-left: 10px;
+                font-size: 10px
+        } */
